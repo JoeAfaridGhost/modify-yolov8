@@ -1,0 +1,6 @@
+train: /data/coding/data/images/train
+val: /data/coding/data/images/val
+nc: 7
+names: ["phone", "emt", "safety_belt", "smoke", "safety_hat", "face", "mask"]
+
+
